@@ -14,6 +14,10 @@ import ${package}.BasicMyComponentUsageUI;
  * A simple example that uses Selenium to do a browser level test for a
  * BasicMyComponentUsageUI. For more complex tests, consider using page
  * object pattern.
+ * 
+ * @see <a href=
+ *      "https://vaadin.com/docs/-/part/testbench/testbench-maintainable.html#testbench.maintainable.pageobject">Page
+ *      Object Pattern</a>
  */
 public class BasicMyComponentUsageIT extends AbstractWebDriverCase {
 
